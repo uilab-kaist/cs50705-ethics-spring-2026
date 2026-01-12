@@ -23,7 +23,7 @@ All contents in this document are tentative.
 * Rm. 210, E3-5 (KRAFTON Bldg.)
 
 ## Prerequisites
-* Knowledge of machine learning and deep learning (CS376, CS470, or CS570)
+* Knowledge of machine learning and deep learning (CS.30706, CS.40700, or CS.50700)
 
 ## Schedule (Subject to Change)
 
