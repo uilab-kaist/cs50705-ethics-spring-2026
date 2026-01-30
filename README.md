@@ -9,13 +9,10 @@ All contents in this document are tentative.
 ## Important Schedule about the lectures.
   
 ## Announcement
-* [20240311] Submit Google Forms about team sign-up. by 23:59 Mar 11(Mon).
-* [20240226] Submit [Lecture 1 Survey]
-* [20240226] Join slack channel: [Invitation Link]
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
-* TA: Junyeong Park (jjjunyeong9986@kaist.ac.kr), Yeeun Shin (yeeun@kaist.ac.kr)
+* TA: Junyeong Park (junyeong.park@kaist.ac.kr), Yeeun Shin (yeeun@kaist.ac.kr)
 * Contact: Through slack "qa" channel
 
 ## Time & Location
@@ -27,39 +24,44 @@ All contents in this document are tentative.
 
 ## Schedule (Subject to Change)
 
-|  # | Date |                           Topic                          | Reading |           Presenter           |                Notes               |
-|:--:|:----:|:--------------------------------------------------------:|:-------:|:-----------------------------:|:----------------------------------:|
-|  1 | 2/26 |                 Introduction to AI Ethics                |         |            Lecturer           |                                    |
-|  2 | 2/28 |                         Overview                         |         |            Lecturer           |           Recorded Video           |
-|  3 |  3/4 |                       Generative AI                      |         |            Lecturer           |           Recorded Video           |
-|    |  3/6 |                         NO CLASS                         |         |                               |                                    |
-|  4 | 3/11 |                         Overview                         |         |            Lecturer           |        Form teams & sign-up        |
-|  5 | 3/13 |                       Generative AI                      |         |            Lecturer           |                                    |
-|  6 | 3/18 |                      Bias & Fairness                     |         |            Lecturer           |                                    |
-|  7 | 3/20 |              Mitigating Social Harms in LLMs             |         | Invited Lecturer (Sachin Kumar) |                                    |
-|  8 | 3/25 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
-|  9 | 3/27 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
-| 10 |  4/1 | Truthfulness (misinformation, hallucination, sycophancy) |         |            Students           |                                    |
-| 11 |  4/3 | Truthfulness (misinformation, hallucination, sycophancy) |         |            Students           |                                    |
-|    |  4/8 |                     Project Proposal                     |         |          All students         |           Recorded Video           |
-|    | 4/10 |                         NO CLASS                         |         |                               |  General Election (국회의원 선거)  |
-|    | 4/15 |                         NO CLASS                         |         |                               |         Midterm Exam Period        |
-|    | 4/17 |                         NO CLASS                         |         |                               |         Midterm Exam Period        |
-| 12 | 4/22 |              Privacy Issues in Data & Models             |         |            Students           |                                    |
-| 13 | 4/24 |              Privacy Issues in Data & Models             |         |            Students           |                                    |
-| 14 | 4/29 |        Transperacy & Limitation of Current Gen AI        |         |            Students           |                                    |
-| 15 |  5/1 |                      Explainable AI                      |         |            Students           |                                    |
-|    |  5/6 |                         NO CLASS                         |         |                               |    Substitute Holiday (어린이날)   |
-|    |  5/8 |                     Project Progress                     |         |            Students           |                                    |
-| 16 | 5/13 |                Societal Impact & AI Divide               |         |            Students           |                                    |
-| 17 | 5/20 |                    AI for Social Good                    |         |            Students           |                                     |
-|    | 5/22 |                         NO CLASS                         |         |                               | Substitute Holidays (부처님오신날) |
-| 18 | 5/27 |               Societal Impact & Environment              |         |            Students           |                                    |
-| 19 | 5/29 |                          Wrap-up                         |         |            Lecturer           |                                    |
-|    |  6/3 |                    Final Presentations                   |         |          All students         |              In class              |
-|    |  6/5 |                    Final Presentations                   |         |          All students         |              In class              |
-|    | 6/10 |                         NO CLASS                         |         |                               |          Final Exam Period         |
-|    | 6/12 |                         NO CLASS                         |         |                               |          Final Exam Period         |
+## Schedule (Subject to Change) — Spring 2026 (Mon/Wed)
+
+|  # |  Date |                   Topic                    | Reading |     Presenter     |                Notes                |
+|:--:|:-----:|:------------------------------------------:|:-------:|:-----------------:|:-----------------------------------:|
+|  1 |  3/2  |                 NO CLASS                  |         |                   |  삼일절 대체공휴일 (공휴일)         |
+|  2 |  3/4  |        Introduction to AI Ethics           |         |      Lecturer     |                                     |
+|  3 |  3/9  |                    TBD                    |         |      Lecturer     |                                     |
+|  4 | 3/11  |                    TBD                    |         |      Lecturer     |                                     |
+|  5 | 3/16  |                    TBD                    |         |      Lecturer     |                                     |
+|  6 | 3/18  |                    TBD                    |         |      Lecturer     |                                     |
+|  7 | 3/23  |                    TBD                    |         |      Lecturer     |                                     |
+|  8 | 3/25  |                    TBD                    |         |      Lecturer     |                                     |
+|  9 | 3/30  |                    TBD                    |         |      Students     |                                     |
+| 10 |  4/1  |                    TBD                    |         |      Students     |     Project Proposal Report         |
+| 11 |  4/6  |                    TBD                    |         |      Students     |                                     |
+| 12 |  4/8  |                    TBD                    |         |      Students     |                                     |
+| 13 | 4/13  |                    TBD                     |         |      Students     |                                     |
+| 14 | 4/15  |                    TBD                    |         |      Students    |                                     |
+| 15 | 4/20  |          Project Presentation              |         |                   |        Midterm Exam Period          |
+| 16 | 4/22  |          Project Presentation              |         |                   |        Midterm Exam Period          |
+| 17 | 4/27  |                    TBD                    |         |      Students     |                                     |
+| 18 | 4/29  |                    TBD                    |         |      Students     |                                     |
+| 19 |  5/4  |                    TBD                    |         |      Students     |                                     |
+| 21 |  5/6  |                    TBD                    |         |      Students     |                                     |
+| 22 | 5/11  |            Project Progress               |         |      Students     |                                     |
+| 23 | 5/13  |                    TBD                    |         |      Students     |                                     |
+| 24 | 5/18  |                    TBD                    |         |      Students     |                                     |
+| 25 | 5/20  |                    TBD                    |         |      Students     |                                     |
+| 26 | 5/25  |                 NO CLASS                  |         |                   |  부처님오신날 대체공휴일            |
+| 27 | 5/27  |                    TBD                    |         |      Students     |                                     |
+| 28 |  6/1  |                    TBD                    |         |      Students     |                                     |
+| 29 |  6/3  |                 NO CLASS                  |         |                   |  지방선거일 (공휴일)                |
+| 30 |  6/8  |                   TBD                     |         |   Students    |                             |
+| 31 | 6/10  |                   TBD                      |         |   Students    |                             |
+| 32 | 6/15  |      Project Final Presentations           |         |   All students   |       Final Exam Period             |
+| 33 | 6/17  |      Project Final Presentations           |         |   All students    |       Final Exam Period             |
+
+
 
 ## Course
 This course includes lectures, readings, discussions, quizzes, and team projects.
