@@ -47,19 +47,19 @@ All contents in this document are tentative.
 | 17 | 4/27  |                    TBD                    |         |      Students     |                                     |
 | 18 | 4/29  |                    TBD                    |         |      Students     |                                     |
 | 19 |  5/4  |                    TBD                    |         |      Students     |                                     |
-| 21 |  5/6  |                    TBD                    |         |      Students     |                                     |
-| 22 | 5/11  |            Project Progress               |         |      Students     |                                     |
-| 23 | 5/13  |                    TBD                    |         |      Students     |                                     |
-| 24 | 5/18  |                    TBD                    |         |      Students     |                                     |
-| 25 | 5/20  |                    TBD                    |         |      Students     |                                     |
-| 26 | 5/25  |                 NO CLASS                  |         |                   |  부처님오신날 대체공휴일            |
-| 27 | 5/27  |                    TBD                    |         |      Students     |                                     |
-| 28 |  6/1  |                    TBD                    |         |      Students     |                                     |
-| 29 |  6/3  |                 NO CLASS                  |         |                   |  지방선거일 (공휴일)                |
-| 30 |  6/8  |                   TBD                     |         |   Students    |                             |
-| 31 | 6/10  |                   TBD                      |         |   Students    |                             |
-| 32 | 6/15  |      Project Final Presentations           |         |   All students   |       Final Exam Period             |
-| 33 | 6/17  |      Project Final Presentations           |         |   All students    |       Final Exam Period             |
+| 20 |  5/6  |                    TBD                    |         |      Students     |                                     |
+| 21 | 5/11  |            Project Progress               |         |      Students     |                                     |
+| 22 | 5/13  |                    TBD                    |         |      Students     |                                     |
+| 23 | 5/18  |                    TBD                    |         |      Students     |                                     |
+| 24 | 5/20  |                    TBD                    |         |      Students     |                                     |
+| 25 | 5/25  |                 NO CLASS                  |         |                   |  부처님오신날 (대체공휴일)            |
+| 26 | 5/27  |                    TBD                    |         |      Students     |                                     |
+| 27 |  6/1  |                    TBD                    |         |      Students     |                                     |
+| 28 |  6/3  |                 NO CLASS                  |         |                   |  지방선거일 (공휴일)                |
+| 29 |  6/8  |                   TBD                     |         |   Students    |                             |
+| 30 | 6/10  |                   TBD                      |         |   Students    |                             |
+| 31 | 6/15  |      Project Final Presentations           |         |   All students   |       Final Exam Period             |
+| 32 | 6/17  |      Project Final Presentations           |         |   All students    |       Final Exam Period             |
 
 
 
