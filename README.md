@@ -3,12 +3,20 @@
 All contents in this document are tentative.
 ## Important Links for the lectures.
 * [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
+  * This link should be used for all online classes.
+  * For classes not specified as online, please attend in person at Room 210, E3-5 (KRAFTON Building).
 * [Google Drive]
   * All the lecture materials and assignments will be shared in the google drive.
 
 ## Important Schedule about the lectures.
+* 3/2: No Class. Substitute Holiday for March 1st Independence Movement Day
+* 3/4: Online Class
+* 3/18: Online Class
+* 4/1: Online Class
+* 4/6: Online Class
   
 ## Announcement
+* Team SignUp is due 3/11. The Signup Sheet will be posted soon.
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
@@ -26,40 +34,40 @@ All contents in this document are tentative.
 
 ## Schedule (Subject to Change) — Spring 2026 (Mon/Wed)
 
-|  # |  Date |                   Topic                    | Reading |     Presenter     |                Notes                |
-|:--:|:-----:|:------------------------------------------:|:-------:|:-----------------:|:-----------------------------------:|
-|  1 |  3/2  |                 NO CLASS                  |         |                   |  삼일절 대체공휴일 (공휴일)         |
-|  2 |  3/4  |        Introduction to AI Ethics           |         |      Lecturer     |                                     |
-|  3 |  3/9  |                    TBD                    |         |      Lecturer     |                                     |
-|  4 | 3/11  |                    TBD                    |         |      Lecturer     |                                     |
-|  5 | 3/16  |                    TBD                    |         |      Lecturer     |                                     |
-|  6 | 3/18  |                    TBD                    |         |      Lecturer     |                                     |
-|  7 | 3/23  |                    TBD                    |         |      Students     |                                     |
-|  8 | 3/25  |                    TBD                    |         |      Students     |                                     |
-|  9 | 3/30  |                    TBD                    |         |      Students     |                                     |
-| 10 |  4/1  |                    TBD                    |         |      Students     |     Project Proposal Report         |
-| 11 |  4/6  |                    TBD                    |         |      Students     |                                     |
-| 12 |  4/8  |                    TBD                    |         |      Students     |                                     |
-| 13 | 4/13  |                    TBD                     |         |      Students     |                                     |
-| 14 | 4/15  |                    TBD                    |         |      Students    |                                     |
-| 15 | 4/20  |          Project Presentation              |         |                   |        Midterm Exam Period          |
-| 16 | 4/22  |          Project Presentation              |         |                   |        Midterm Exam Period          |
-| 17 | 4/27  |                    TBD                    |         |      Students     |                                     |
-| 18 | 4/29  |                    TBD                    |         |      Students     |                                     |
-| 19 |  5/4  |                    TBD                    |         |      Students     |                                     |
-| 20 |  5/6  |                    TBD                    |         |      Students     |                                     |
-| 21 | 5/11  |            TBD               |         |      Students     |                                     |
-| 22 | 5/13  |                    TBD                    |         |      Students     |                                     |
-| 23 | 5/18  |                    TBD                    |         |      Students     |                                     |
-| 24 | 5/20  |                    TBD                    |         |      Students     |                                     |
-| 25 | 5/25  |                 NO CLASS                  |         |                   |  부처님오신날 (대체공휴일)            |
-| 26 | 5/27  |                    TBD                    |         |      Students     |                                     |
-| 27 |  6/1  |                    TBD                    |         |      Students     |                                     |
-| 28 |  6/3  |                 NO CLASS                  |         |                   |  지방선거일 (공휴일)                |
-| 29 |  6/8  |                   TBD                     |         |   Students    |                             |
-| 30 | 6/10  |                   TBD                      |         |   Students    |                             |
-| 31 | 6/15  |      Project Final Presentations           |         |   All students   |       Final Exam Period             |
-| 32 | 6/17  |      Project Final Presentations           |         |   All students    |       Final Exam Period             |
+| #  | Date | Topic                                                                 | Presenter        | Notes                                           |
+|:--:|:----:|------------------------------------------------------------------------|------------------|------------------------------------------------|
+| 1  | 3/2  | NO CLASS                                                               |                  | 삼일절 대체공휴일 (공휴일)                     |
+| 2  | 3/4  | Introduction to AI Ethics                                              | Lecturer         | Online                                         |
+| 3  | 3/9  | LLM Overview                                                           | Lecturer         |                                                |
+| 4  | 3/11 | LLM Overview                                                           | Lecturer         | Team Signup Due                                |
+| 5  | 3/16 | TBD                                                                    | Lecturer         |                                                |
+| 6  | 3/18 | Bias & Fairness                                                        | Students         | Online                                         |
+| 7  | 3/23 | Bias & Fairness                                                        | Students         |                                                |
+| 8  | 3/25 | Safety (toxicity, jailbreak)                                           | Students         |                                                |
+| 9  | 3/30 | Safety (toxicity, jailbreak)                                           | Students         |                                                |
+| 10 | 4/1  | Safety (multimodal, deepfake)                                          | Students         | Online / Project Proposal Report Due           |
+| 11 | 4/6  | Truthfulness (misinformation, hallucination, sycophancy)               | Students         | Online                                         |
+| 12 | 4/8  | Truthfulness (misinformation, hallucination, sycophancy)               | Students         |                                                |
+| 13 | 4/13 | Privacy Issues in Data & Models                                        | Students         |                                                |
+| 14 | 4/15 | Model/Data Transparency                                                | Students         |                                                |
+| 15 | 4/20 | Project Progress Presentation (Online)                                 |                  |                                                |
+| 16 | 4/22 | Project Progress Presentation (Online)                                 |                  |                                                |
+| 17 | 4/27 | Explainable AI                                                         | Students         |                                                |
+| 18 | 4/29 | Multilingual & Multicultural AI                                        | Students         |                                                |
+| 19 | 5/4  | Multilingual & Multicultural AI                                        | Students         |                                                |
+| 20 | 5/6  | Societal Impact & AI Divide (global adoption, AI literacy)             | Students         |                                                |
+| 21 | 5/11 | Human Intelligence Vs. Artificial Intelligence                          | Students         |                                                |
+| 22 | 5/13 | Human Intelligence Vs. Artificial Intelligence                          | Students         |                                                |
+| 23 | 5/18 | AI Agents                                                              | Students         |                                                |
+| 24 | 5/20 | AI Dependency (mental health, education)                                | Students         |                                                |
+| 25 | 5/25 | NO CLASS                                                               |                  | 부처님오신날 (대체공휴일)                     |
+| 26 | 5/27 | Societal Impact & Environment                                          | Students         |                                                |
+| 27 | 6/1  | AI for Social Good                                                     | Students         |                                                |
+| 28 | 6/3  | NO CLASS                                                               |                  | 지방선거일 (공휴일)                           |
+| 29 | 6/8  | AI for Social Good                                                     | Students         |                                                |
+| 30 | 6/10 | Wrap Up                                                                | Lecturer         |                                                |
+| 31 | 6/15 | Project Final Presentations                                            | All Students     |                                                 |
+| 32 | 6/17 | Project Final Presentations                                            | All Students     | Final Report, Teamwork Report Due              |
 
 
 
