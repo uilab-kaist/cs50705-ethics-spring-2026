@@ -33,7 +33,7 @@ All contents in this document are tentative.
 |  3 |  3/9  |                    TBD                    |         |      Lecturer     |                                     |
 |  4 | 3/11  |                    TBD                    |         |      Lecturer     |                                     |
 |  5 | 3/16  |                    TBD                    |         |      Lecturer     |                                     |
-|  6 | 3/18  |                    TBD                    |         |      Students     |                                     |
+|  6 | 3/18  |                    TBD                    |         |      Lecturer     |                                     |
 |  7 | 3/23  |                    TBD                    |         |      Students     |                                     |
 |  8 | 3/25  |                    TBD                    |         |      Students     |                                     |
 |  9 | 3/30  |                    TBD                    |         |      Students     |                                     |
@@ -48,7 +48,7 @@ All contents in this document are tentative.
 | 18 | 4/29  |                    TBD                    |         |      Students     |                                     |
 | 19 |  5/4  |                    TBD                    |         |      Students     |                                     |
 | 20 |  5/6  |                    TBD                    |         |      Students     |                                     |
-| 21 | 5/11  |            Project Progress               |         |      Students     |                                     |
+| 21 | 5/11  |            TBD               |         |      Students     |                                     |
 | 22 | 5/13  |                    TBD                    |         |      Students     |                                     |
 | 23 | 5/18  |                    TBD                    |         |      Students     |                                     |
 | 24 | 5/20  |                    TBD                    |         |      Students     |                                     |
