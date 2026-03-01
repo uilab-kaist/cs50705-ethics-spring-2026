@@ -89,11 +89,10 @@ Lectures will be delivered either by the instructor or by assigned student teams
 ### Team Project
 The team project is a major part of this course, particularly during the second half of the semester.
 Projects will include replications or modifications of recent research in AI Ethics.
-See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2024/project).
 
 ### Paper Presentation
 Each team will read, analyze, and present recent research related to ethical issues in AI and machine learning.
-* Each team will select 1–2 papers related to the assigned lecture topic, following the course schedule and [reading list](https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit#gid=1112436071).
+* Each team will select 1–2 papers related to the assigned lecture topic, following the course schedule and reading list.
 * Papers may come from major conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) or other relevant sources, including blog posts, media articles, online discussions, or publications from global governing bodies.
 * Each team will prepare a 30-minute presentation that includes (but not limited to): a summary of the paper(s), key contributions and strengths, limitations or weaknesses, suggestions for future work.
 
