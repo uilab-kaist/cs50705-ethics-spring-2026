@@ -16,7 +16,7 @@ All contents in this document are tentative.
 * 4/6: Online Class
   
 ## Announcement
-* Please join the course slack channel. The channel link will be shared soon.
+* Please join the [course slack channel](https://join.slack.com/t/cs575-26-sp/shared_invite/zt-3rh3a53fq-ctr9Nww9X30e0T8X60VgxA).
 * Team Signup is due 3/11. The Signup sheet will be shared soon.
 
 ## Teaching Staff
@@ -30,8 +30,6 @@ All contents in this document are tentative.
 
 ## Prerequisites
 * Knowledge of machine learning and deep learning (CS.30706, CS.40700, or CS.50700)
-
-## Schedule (Subject to Change)
 
 ## Schedule (Subject to Change) — Spring 2026 (Mon/Wed)
 
