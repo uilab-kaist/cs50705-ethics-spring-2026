@@ -1,17 +1,14 @@
-# CS575-ethics-spring-2024-team-project
+# Team Project
 
 ## Schedule
-- Week  3 (3/11): **Team matching, Topic exploration**
-- Week  8 (4/8): **Project proposal, Peer grading**
-  - Slides submission deadline: **23:59, April 7, 2024**
+- Week  2 (3/11): **Team matching, Topic exploration**
+- Week  5 (4/1): **Project proposal report**
+- Week  8 (4/20, 4/22): **Project progress presentation, Peer grading**
+  - Slides submission deadline: **23:59, April 19, 2026**
   - Peer grading: Recorded Video
-- Week 11 (5/8): **Progress Update, Peer grading**
-  - Slides submission deadline: **23:59, 5/7, 2024**
-  - Peer grading: Recorded Video
-- Week 15 (6/3, 6/5): **Final presentation, Final report, Peer grading, Teamwork report**
-  - Slides submission deadline: **23:59, June 2, 2024**
-  - Final report submission deadline: **23:59, June 14, 2024**
-    - Any final report submitted after 6/14 11:59 but before June 16th 11:59, will incur a 20% penalty on the final grade for the report
+- Week 16 (6/15, 6/17): **Final presentation, Final report, Peer grading, Teamwork report**
+  - Slides submission deadline: **23:59, June 14, 2026**
+  - Final report submission deadline: **23:59, June 21, 2024**
   -  Peer grading: Recorded Video
   -  Teamwork report: Google form
 
@@ -22,7 +19,7 @@ This project aims to replicate an existing paper on ethical issues in machine le
 This is a team-based project. Please form teams of **3~4 students** by **March 11**. If you need help forming teams, advertise yourself and find your teammate in **#team-matching**.
 
 ## Project Grading (50% of Course Grade)
-- **Proposal presentation**: 5%
+- **Proposal report**: 5%
 - **Progress presentation**: 5%
 - **Final presentation**: 15%
 - **Final report**: 10%
@@ -36,7 +33,6 @@ This can apply to an individual student, or to the entire team.
 ## Deliverables
 **All project team members should present an important part in the presentation (speak for at least one minute each)**.
 You should present your work in presentation session. 
-- **Proposal presentation**: 5-8 minute presentation
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
@@ -50,13 +46,13 @@ You should present your work in presentation session.
 - Covering any of the following topics: bias, fairness, social impact, interpretability, privacy, deepfake/generative modeling, social good
 - From ML/NLP/AI conferences including ACL, EMNLP, NAACL, Coling, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ICML, ICLR
 - If your paper deviates from the above criteria, or if your project is not based on replication of a previous paper, please email the teaching staff
-- You can choose the paper in [Reading List](https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit#gid=1112436071).
+- You can choose the paper in [Reading List](https://docs.google.com/spreadsheets/d/1GBD9v65EfxJAYixnCJHi2SyvkZkL2Ayd/edit?usp=sharing&ouid=113683865426367934870&rtpof=true&sd=true).
 **Based on the paper, there are two options you can choose:**
 1. Replicate their method and apply it to your own research problem. 
 2. Replicate their method and improve it. You should find a problematic issue of the existing work and try to resolve/alleviate it.
 
 ## Project Proposal
-Give a **5-8 minute proposal presentation** that includes the following:
+Give a **report** that includes the following:
 - **Problem**: What is the topic of your paper? What is the specific task being tackled? Why is it important to solve this problem?
 - **Related work**: What existing papers have dealt with this problem? What were their approaches?
 - **Replication approach**: Which paper will you use for replication and why?
@@ -89,7 +85,6 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 ## Peer Grading
 - We will use Google form and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
-  - [Proposal presentations](https://forms.gle/tP6UXDCyxMWwiVv28)
   - Progress presentations
   - Final presentations & reports
 
