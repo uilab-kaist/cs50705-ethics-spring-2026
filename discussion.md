@@ -6,7 +6,8 @@ You will be asked to
 1. read the selected paper **before the class**
 2. listen to the presentation
 3. participate in group discussion 
-4. submit the discussion record & summary on [Google Drive](https://drive.google.com/drive/folders/1ANsIIDrJR8vvKVdto46AnWrqY-NAx2pG?usp=sharing) with title format **week{n}_team{n}_{record/report}.{ext}**
+4. submit the discussion record & summary on [Google Drive](https://drive.google.com/drive/folders/1ANsIIDrJR8vvKVdto46AnWrqY-NAx2pG?usp=sharing) with title format _week{n}_team{n}_{record/report}.{ext}_
+
 [Discussion Record]
 ```
 Name: Alice, Bob, Carol
