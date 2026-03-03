@@ -5,8 +5,8 @@ All contents in this document are tentative.
 * [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
   * This link should be used for all online classes.
   * For classes not specified as online, please attend in person at Room 210, E3-5 (KRAFTON Building).
-* [Google Drive]
-  * All the lecture materials and assignments will be shared in the google drive.
+* Google Drive
+  * All the [lecture materials](https://drive.google.com/drive/folders/1p__fVVueOlblXKsnmO3TYzYg6H90t-Zi?usp=sharing) will be shared in the google drive.
 
 ## Important Schedule about the lectures.
 * 3/2: No Class. Substitute Holiday for March 1st Independence Movement Day
@@ -16,7 +16,8 @@ All contents in this document are tentative.
 * 4/6: Online Class
   
 ## Announcement
-* Team SignUp is due 3/11. The Signup Sheet will be posted soon.
+* Please join the course slack channel. The channel link will be shared soon.
+* Team Signup is due 3/11. The Signup sheet will be shared soon.
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
@@ -36,7 +37,7 @@ All contents in this document are tentative.
 
 | #  | Date | Topic                                                                 | Presenter        | Notes                                           |
 |:--:|:----:|------------------------------------------------------------------------|------------------|------------------------------------------------|
-| 1  | 3/2  | NO CLASS                                                               |                  | 삼일절 대체공휴일 (공휴일)                     |
+| 1  | 3/2  | NO CLASS                                                               |                  | March 1st Independence Movement Day (Substitute Holiday)                     |
 | 2  | 3/4  | Introduction to AI Ethics                                              | Lecturer         | Online                                         |
 | 3  | 3/9  | LLM Overview                                                           | Lecturer         |                                                |
 | 4  | 3/11 | LLM Overview                                                           | Lecturer         | Team Signup Due                                |
@@ -60,10 +61,10 @@ All contents in this document are tentative.
 | 22 | 5/13 | Human Intelligence Vs. Artificial Intelligence                          | Students         |                                                |
 | 23 | 5/18 | AI Agents                                                              | Students         |                                                |
 | 24 | 5/20 | AI Dependency (mental health, education)                                | Students         |                                                |
-| 25 | 5/25 | NO CLASS                                                               |                  | 부처님오신날 (대체공휴일)                     |
+| 25 | 5/25 | NO CLASS                                                               |                  | Buddha's Birthday (Substitute Holiday)                     |
 | 26 | 5/27 | Societal Impact & Environment                                          | Students         |                                                |
 | 27 | 6/1  | AI for Social Good                                                     | Students         |                                                |
-| 28 | 6/3  | NO CLASS                                                               |                  | 지방선거일 (공휴일)                           |
+| 28 | 6/3  | NO CLASS                                                               |                  | Local Election (Holiday)                           |
 | 29 | 6/8  | AI for Social Good                                                     | Students         |                                                |
 | 30 | 6/10 | Wrap Up                                                                | Lecturer         |                                                |
 | 31 | 6/15 | Project Final Presentations                                            | All Students     |                                                 |
@@ -88,7 +89,8 @@ Lectures will be delivered either by the instructor or by assigned student teams
 
 ### Team Project
 The team project is a major part of this course, particularly during the second half of the semester.
-Projects will include replications or modifications of recent research in AI Ethics.
+* Projects will include replications or modifications of recent research in AI Ethics.
+* Please find the details in the [team project page](https://uilab-kaist.github.io/cs50705-ethics-spring-2026/project).
 
 ### Paper Presentation
 Each team will read, analyze, and present recent research related to ethical issues in AI and machine learning.
@@ -106,6 +108,7 @@ Each class will include an in-class discussion based on the assigned readings.
 * The instructor will provide discussion questions for each class.
 * Each team will participate in the discussion and submit a written or transcribed record of their discussion by the end of class (AI-based transcription tools such as [ClovaNote](https://clovanote.naver.com/) may be used).
 * For each class, one team will be assigned to present their discussion points and ideas at the end of the discussion session.
+* Please find the details in the [discussion page](https://uilab-kaist.github.io/cs50705-ethics-spring-2026/discussion).
 
 ## Attendance and Participation Policy
 * Attendance is recorded through the paper reading quizzes.
