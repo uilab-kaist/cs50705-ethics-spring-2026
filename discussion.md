@@ -13,7 +13,7 @@ You will be asked to
 Name: Alice, Bob, Carol
 Student ID: 20231111, 20232222, 20233333
 Date: YYMMDD
-Prompt 1: 
+Question 1: 
 Alice: "I think --"
 Bob: "I agree --"
 ```
@@ -22,7 +22,7 @@ Bob: "I agree --"
 Name: Alice, Bob, Carol
 Student ID: 20231111, 20232222, 20233333
 Date: YYMMDD
-Prompt 1: 
+Question 1: 
 Summarized team's opinion: 
 ```
 
