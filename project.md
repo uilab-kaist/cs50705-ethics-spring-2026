@@ -2,7 +2,9 @@
 
 ## Schedule
 - Week  2 (3/11): **Team matching, Topic exploration**
-- Week  5 (4/1): **Project proposal report**
+- Week  5 (4/1): **Project proposal, Peer grading**
+  - Slides submission deadline: **23:59, April 1, 2026**
+  - Peer grading: Recorded Video
 - Week  8 (4/20, 4/22): **Project progress presentation, Peer grading**
   - Slides submission deadline: **23:59, April 19, 2026**
   - Peer grading: Recorded Video
@@ -19,7 +21,7 @@ This project aims to replicate an existing paper on ethical issues in machine le
 This is a team-based project. Please form teams of **3~4 students** by **March 11**. If you need help forming teams, advertise yourself and find your teammate in **#team-matching**.
 
 ## Project Grading (50% of Course Grade)
-- **Proposal report**: 5%
+- **Proposal presentation**: 5%
 - **Progress presentation**: 5%
 - **Final presentation**: 15%
 - **Final report**: 10%
@@ -33,6 +35,7 @@ This can apply to an individual student, or to the entire team.
 ## Deliverables
 **All project team members should present an important part in the presentation (speak for at least one minute each)**.
 You should present your work in presentation session. 
+- **Proposal presentation**: 5-8 minute presentation
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
@@ -52,7 +55,7 @@ You should present your work in presentation session.
 2. Replicate their method and improve it. You should find a problematic issue of the existing work and try to resolve/alleviate it.
 
 ## Project Proposal
-Give a **report** that includes the following:
+Give a **5-8 minute proposal presentation** that includes the following:
 - **Problem**: What is the topic of your paper? What is the specific task being tackled? Why is it important to solve this problem?
 - **Related work**: What existing papers have dealt with this problem? What were their approaches?
 - **Replication approach**: Which paper will you use for replication and why?
@@ -85,6 +88,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 ## Peer Grading
 - We will use Google form and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
+  - Proposal presentations
   - Progress presentations
   - Final presentations & reports
 
