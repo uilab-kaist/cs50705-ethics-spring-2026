@@ -6,7 +6,7 @@ All contents in this document are tentative.
   * This link should be used for all online classes.
   * For classes not specified as online, please attend in person at Room 210, E3-5 (KRAFTON Building).
 * Google Drive
-  * All the [lecture materials](https://drive.google.com/drive/folders/1p__fVVueOlblXKsnmO3TYzYg6H90t-Zi?usp=sharing) will be shared in the google drive.
+  * All the [lecture materials](https://drive.google.com/drive/folders/1p__fVVueOlblXKsnmO3TYzYg6H90t-Zi?usp=sharing) and assignments will be shared in the google drive.
 
 ## Important Schedule about the lectures.
 * 3/2: No Class. Substitute Holiday for March 1st Independence Movement Day
@@ -15,7 +15,7 @@ All contents in this document are tentative.
 * 4/1: Online Class
 * 4/6: Online Class
   
-## Announcement
+## Announcements
 * Please join the [course slack channel](https://join.slack.com/t/cs575-26-sp/shared_invite/zt-3rh3a53fq-ctr9Nww9X30e0T8X60VgxA).
 * Team Signup is due 3/11. The Signup sheet will be shared soon.
 
@@ -44,7 +44,7 @@ All contents in this document are tentative.
 | 7  | 3/23 | Bias & Fairness                                                        | Students         |                                                |
 | 8  | 3/25 | Safety (toxicity, jailbreak)                                           | Students         |                                                |
 | 9  | 3/30 | Safety (toxicity, jailbreak)                                           | Students         |                                                |
-| 10 | 4/1  | Safety (multimodal, deepfake)                                          | Students         | Online / Project Proposal Report Due           |
+| 10 | 4/1  | Safety (multimodal, deepfake)                                          | Students         | Online / Project Proposal Presentation Due           |
 | 11 | 4/6  | Truthfulness (misinformation, hallucination, sycophancy)               | Students         | Online                                         |
 | 12 | 4/8  | Truthfulness (misinformation, hallucination, sycophancy)               | Students         |                                                |
 | 13 | 4/13 | Privacy Issues in Data & Models                                        | Students         |                                                |
@@ -78,8 +78,9 @@ Students will be asked to do the following things.
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------|
 | Project                   | Proposal, progress update, final presentation / Final report / Peer review / Teamwork report | 1x          | Team       |
 | Paper Presentation        | 30-minute presentation with 1 or 2 papers on a topic according to the schedule (will depend on the amount of content in the papers) | 1x          | Team       |
-| Paper Reading Quiz | Short in-class quiz on weekly paper                                                                                                           |  Weekly  | Individual |
 | Discussion Presentation   | Present the discussion of the paper based on their report                                                                                | 1x          | Team       |
+| Paper Reading Reflection   | Write reflections of the paper                                                                                | 4x          | Individual       |
+| Paper Reading Quiz | Short in-class quiz on weekly paper                                                                                                           |  Weekly (Random)  | Individual |
 
 
 ### Lecture
@@ -96,11 +97,6 @@ Each team will read, analyze, and present recent research related to ethical iss
 * Papers may come from major conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) or other relevant sources, including blog posts, media articles, online discussions, or publications from global governing bodies.
 * Each team will prepare a 30-minute presentation that includes (but not limited to): a summary of the paper(s), key contributions and strengths, limitations or weaknesses, suggestions for future work.
 
-### Paper Reading Quiz
-All students are expected to read the paper(s) selected by the presentation team before each class.
-* A short in-class reading quiz will be given, consisting of 1–2 open-ended, thought-provoking questions.
-* The quiz serves both to encourage pre-class reading of the paper(s) to be presented and discussed, and as the attendance record for the class.
-
 ### Discussion Sessions
 Each class will include an in-class discussion based on the assigned readings.
 * The instructor will provide discussion questions for each class.
@@ -108,13 +104,24 @@ Each class will include an in-class discussion based on the assigned readings.
 * For each class, one team will be assigned to present their discussion points and ideas at the end of the discussion session.
 * Please find the details in the [discussion page](https://uilab-kaist.github.io/cs50705-ethics-spring-2026/discussion).
 
+### Paper Reading Reflection
+All students are expected to read the paper(s) selected by the presentation team before each class.
+* Write a 1-page reflection on the paper, including a summary, strengths, limitations, and suggestions.
+* Students need to submit total four reflections until the end of the semester.
+
+### Paper Reading Quiz
+All students are expected to read the paper(s) selected by the presentation team before each class.
+* A short in-class reading quiz will be given on random days, consisting of 1–2 open-ended, thought-provoking questions.
+* The quiz serves both to encourage pre-class reading of the paper(s) to be presented and discussed, and as the attendance record for the class.
+* Lowest two quiz grades will be dropped.
+
 ## Attendance and Participation Policy
 * Attendance is recorded through the paper reading quizzes.
-* Students may miss up to two classes without penalty.
-* After two unexcused absences, participation points will be deducted. Because you can miss up to two class for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
-*Unless otherwise specified, we will not accept late homework assignments, quizzes, peer evaluations, or project submissions. For exceptional individual circumstances, please contact the teaching staff.
+* We will not take excuses for absence since we drop lowest two quiz grades.
+* If you have a special case, such as prolonged sickness, email the teaching staff.
+* Unless otherwise specified, we will not accept late homework assignments, quizzes, peer evaluations, or project submissions. For exceptional individual circumstances, please contact the teaching staff.
 
-### Policy on Large Language Models
+## Policy on Large Language Models
 Recent progress in large-scale language models (LLM), such as ChatGPT, motivates explicit policies.
 * The entire course policy is **LLM-agnostic**: no grader will ever evaluate your submission differently because they suspect it was generated by an LLM.
 * You are free to use an LLM as long as you **acknowledge** it.
@@ -122,6 +129,9 @@ Recent progress in large-scale language models (LLM), such as ChatGPT, motivates
 * You will be asked to state how you are assisted by LLM at the end of the semester to evolve in future courses.
 
 ## Evaluation (Subject to Change)
-* Participation and Attendance: 20%
-* In-class Discussion: 30%
-* Project: 50%
+* Team Project: 50%
+* 1x Paper Presentation: 20%
+* 1x Paper Discussion Presentation: 5%
+* 4x Paper Reading Reflections: 10%
+* Paper Reading Quiz: 10%
+* Participation: 5%
