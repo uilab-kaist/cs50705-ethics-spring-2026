@@ -5,8 +5,9 @@ All contents in this document are tentative.
 * [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
   * This link should be used for all online classes.
   * For classes not specified as online, please attend in person at Room 210, E3-5 (KRAFTON Building).
-* Google Drive
+* [Google Drive](https://drive.google.com/drive/folders/1vuwERsVE7WCqvQ3XUyX_jurfRj_dtQaf?usp=sharing)
   * All the [lecture materials](https://drive.google.com/drive/folders/1p__fVVueOlblXKsnmO3TYzYg6H90t-Zi?usp=sharing) and assignments will be shared in the google drive.
+* Please join the [course slack channel](https://join.slack.com/t/cs575-26-sp/shared_invite/zt-3rh3a53fq-ctr9Nww9X30e0T8X60VgxA) for announcements and Q&A.
 
 ## Important Schedule about the lectures.
 * 3/2: No Class. Substitute Holiday for March 1st Independence Movement Day
@@ -16,8 +17,10 @@ All contents in this document are tentative.
 * 4/6: Online Class
   
 ## Announcements
-* Please join the [course slack channel](https://join.slack.com/t/cs575-26-sp/shared_invite/zt-3rh3a53fq-ctr9Nww9X30e0T8X60VgxA).
-* Team Signup is due 3/11. The Signup sheet will be shared soon.
+* 3/11: Team matching is due 3/11 before class time. Please register your team in the #Team Assignment sheet in the [spreadsheet](https://docs.google.com/spreadsheets/d/12mn77MwGxYrbJ2UMa2VIu9SLBsvw6A_QyCiiwbYSXGg/edit?usp=sharing).
+* 3/12: Complete the [In-class Presentation Topic Preference Survey](https://forms.gle/o1dDvEHn1ktFd2WN7) (you may select up to three preferred topics).
+* 3/13: Assigned topics will be announced.
+* 3/18: In-class student presentations will begin.
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
