@@ -120,7 +120,7 @@ All students are expected to read the paper(s) selected by the presentation team
 
 ## Attendance and Participation Policy
 * Attendance is recorded through the paper reading quizzes.
-* We will not take excuses for absence since we drop lowest two quiz grades.
+* We will not take excuses for absence (including conference travel, illness) since we drop lowest two quiz grades.
 * If you have a special case, such as prolonged sickness, email the teaching staff.
 * Unless otherwise specified, we will not accept late homework assignments, quizzes, peer evaluations, or project submissions. For exceptional individual circumstances, please contact the teaching staff.
 
