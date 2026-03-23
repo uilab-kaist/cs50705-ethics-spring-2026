@@ -18,10 +18,6 @@ All contents in this document are tentative.
 * 4/6: Online Class
   
 ## Announcements
-* 3/11: Team matching is due 3/11 before class time. Please register your team in the #Team Assignment sheet in the [spreadsheet](https://docs.google.com/spreadsheets/d/12mn77MwGxYrbJ2UMa2VIu9SLBsvw6A_QyCiiwbYSXGg/edit?usp=sharing).
-* 3/12: Complete the [In-class Presentation Topic Preference Survey](https://forms.gle/o1dDvEHn1ktFd2WN7) (you may select up to three preferred topics).
-* 3/13: Assigned topics will be announced.
-* 3/18: In-class student presentations will begin.
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
