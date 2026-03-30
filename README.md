@@ -11,11 +11,7 @@ All contents in this document are tentative.
 
 ## Important Schedule about the lectures.
 * 3/2: No Class. Substitute Holiday for March 1st Independence Movement Day
-* 3/4: Online Class
-* 3/18: Online Class
-* 3/25: Online Class
-* 4/1: Online Class
-* 4/6: Online Class
+* Onlines classes: 3/4, 3/18, 3/25, 4/1, 4/6, 4/8
   
 ## Announcements
 
