@@ -45,8 +45,8 @@ All contents in this document are tentative.
 | 12 | 4/8  | Truthfulness (misinformation, hallucination, sycophancy)               | Students         |                                                |
 | 13 | 4/13 | Privacy Issues in Data & Models                                        | Students         |                                                |
 | 14 | 4/15 | Model/Data Transparency                                                | Students         |                                                |
-| 15 | 4/20 | Project Progress Presentation (Online)                                 |                  |                                                |
-| 16 | 4/22 | Project Progress Presentation (Online)                                 |                  |                                                |
+| 15 | 4/20 | Project Progress Presentation (Online Async. No Class)                                 |                  |                                                |
+| 16 | 4/22 | Project Progress Presentation (Online Async. No Class)                                 |                  |                                                |
 | 17 | 4/27 | Explainable AI                                                         | Students         |                                                |
 | 18 | 4/29 | Multilingual & Multicultural AI                                        | Students         |                                                |
 | 19 | 5/4  | Multilingual & Multicultural AI                                        | Students         |                                                |
