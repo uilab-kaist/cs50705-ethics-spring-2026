@@ -6,7 +6,7 @@
   - Slides submission deadline: **23:59, April 1, 2026**
   - Peer grading: Recorded Video
 - Week  8 (4/20, 4/22): **Project progress presentation, Peer grading**
-  - Slides submission deadline: **23:59, April 19, 2026**
+  - Slide & Video submission deadline: **10:30, April 20, 2026**
   - Peer grading: Recorded Video
 - Week 16 (6/15, 6/17): **Final presentation, Final report, Peer grading, Teamwork report**
   - Slides submission deadline: **23:59, June 14, 2026**
