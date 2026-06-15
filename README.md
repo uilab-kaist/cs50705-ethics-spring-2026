@@ -62,7 +62,7 @@ All contents in this document are tentative.
 | 29 | 6/8  | AI for Social Good                                                     | Students         |                                                |
 | 30 | 6/10 | Wrap Up                                                                | Lecturer         |                                                |
 | 31 | 6/15 | Project Final Presentations                                            | All Students     |                                                 |
-| 32 | 6/17 | Project Final Presentations                                            | All Students     | Final Report, Teamwork Report Due              |
+| 32 | 6/17 | Project Final Presentations                                            | All Students     |               |
 
 
 
