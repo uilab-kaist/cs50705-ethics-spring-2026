@@ -10,9 +10,9 @@
   - Peer grading: Recorded Video
 - Week 16 (6/15, 6/17): **Final presentation, Final report, Peer grading, Teamwork report**
   - Slides submission deadline: **23:59, June 14, 2026**
-  - Final report submission deadline: **23:59, June 21, 2024**
-  -  Peer grading: Recorded Video
-  -  Teamwork report: Google form
+  - Final report submission deadline: **23:59, June 21, 2026**
+  -  Peer grading deadline: **23:59, June 21, 2026**
+  -  Teamwork report deadline: **23:59, June 21, 2026**
 
 ## Goal
 This project aims to replicate an existing paper on ethical issues in machine learning, and then make meaningful improvements/extensions in terms of research question, machine learning model, features, datasets, or evaluation metrics.
